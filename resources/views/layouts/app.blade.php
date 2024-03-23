@@ -236,23 +236,17 @@
             <div class="container-fluid bg-secondary text-dark mt-5 pt-5">
                 <div class="row px-xl-5 pt-5">
                     <div class="col-lg-4 col-md-12 mb-5 pr-3 pr-xl-5">
-                        <!-- <a href="/" class="text-decoration-none">
-                            <img src="{{ asset('logo.png') }}" alt="" style="max-height: 80px; max-width: 80px;">
-                        </a> -->
                         <p>
-                            Dolore erat dolor sit lorem vero amet. Sed sit lorem
-                            magna, ipsum no sit erat lorem et magna ipsum dolore
-                            amet erat.
+                            Smart Business Solutions is dedicated at enhancing continous sale of its vendors who operates under us, we ensure timely invoicing and delivery.
                         </p>
                         <p class="mb-2">
-                            <i class="bi bi-map text-primary mr-3"></i>123 Street, New York, USA
+                            <i class="bi bi-map text-primary mr-3"></i>Nairobi - Kenya
                         </p>
                         <p class="mb-2">
-                            <i class="bi bi-envelope text-primary mr-3"></i>info@example.com
+                            <i class="bi bi-envelope text-primary mr-3"></i>info@smartsolution.com
                         </p>
                         <p class="mb-0">
-                            <i class="bi bi-phone text-primary mr-3"></i>+012
-                            345 67890
+                            <i class="bi bi-phone text-primary mr-3"></i>
                         </p>
                     </div>
                     <div class="col-lg-8 col-md-12">
